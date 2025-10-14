@@ -1,0 +1,10 @@
+artifact_location: file:///content/mlruns/880471984234258360/models/m-af6f22b4d623416da2a2ed9cafda3b69/artifacts
+creation_timestamp: 1760433887545
+experiment_id: '880471984234258360'
+last_updated_timestamp: 1760433892022
+model_id: m-af6f22b4d623416da2a2ed9cafda3b69
+model_type: null
+name: xgb-ride-surge-model
+source_run_id: c251fd8ff6b541b98f43813bde36884f
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/880471984234258360/3635799c2b294b57ac3dfab08ec7e0d6/artifacts
+end_time: 1760432286729
+entry_point_name: ''
+experiment_id: '880471984234258360'
+lifecycle_stage: active
+run_id: 3635799c2b294b57ac3dfab08ec7e0d6
+run_name: Tuned LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760432259383
+status: 3
+tags: []
+user_id: root

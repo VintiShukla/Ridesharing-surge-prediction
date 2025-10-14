@@ -1,0 +1,10 @@
+artifact_location: file:///content/mlruns/880471984234258360/models/m-2a3c7d3cbe14411aad57f4b06c82b848/artifacts
+creation_timestamp: 1760432275841
+experiment_id: '880471984234258360'
+last_updated_timestamp: 1760432286724
+model_id: m-2a3c7d3cbe14411aad57f4b06c82b848
+model_type: null
+name: lgbm-ride-surge-model
+source_run_id: 3635799c2b294b57ac3dfab08ec7e0d6
+status: 2
+status_message: null
